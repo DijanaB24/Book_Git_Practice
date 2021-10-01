@@ -4,3 +4,15 @@ Add all the files you want to ignore tracking of
 - out
 - *.xml
 - *.iml
+Add all the files you want to ignore tracking of
+- Files to ignore in a java project:
+- .idea
+- out
+- *.xml
+- *.iml
+Add all the files you want to ignore tracking of
+- Files to ignore in a java project:
+- .idea
+- out
+- *.xml
+- *.iml
