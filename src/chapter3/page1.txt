@@ -11,3 +11,5 @@ dijana dijana dijana
 
 To make a .gitignore file in the project right click on the project level -
 > create new file -> call it .gitignore
+To make a .gitignore file in the project right click on the project level -
+> create new file -> call it .gitignore
